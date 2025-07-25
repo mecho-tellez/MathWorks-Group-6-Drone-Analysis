@@ -11,3 +11,8 @@ Breakdown of what each student did:
 - Ernesto Tellez Perez: Modeled and calculated the drone arm as a cantilever. Found the general equation for the shear and moment of the drone arm in variable form. Programmed the MATLAB Analysis with plots of shear and moment using relevant dimensions and constants. Researched and found the speed and flight controller for the drone. Calculated the centroid of the drone.
 
 Folders and What They Hold: 
+- src/ : Holds the MATLAB code 
+- media/ : Holds the MATLAB plots of shear and moment for both types of arms in the Drone model, orthographic drawings for the drone frame, files for the 3d model, and images of the final model.
+
+  - The MATLAB code is ready to run through MATLAB and return the plots of shear and moment for the drone arms. If dimensions or constants are to be changed, the variables are easily accessible and editable to match design changes.
+  - The 3d model can be opened through ........................
