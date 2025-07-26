@@ -23,4 +23,4 @@ Folders and What They Hold:
 - media/ : Holds the MATLAB plots of shear and moment for both types of arms in the Drone model, orthographic drawings for the drone frame, files for the 3d model, hand manual calculations, and images of the final model.
 
   - The MATLAB code is ready to run through MATLAB and return the plots of shear and moment for the drone arms. If dimensions or constants are to be changed, the variables are easily accessible and editable to match design changes.
-  - The 3d model can be opened through ........................
+  - The 3d model can be opened through media/Final Drone Assembly.html
