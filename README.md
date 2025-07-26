@@ -28,5 +28,6 @@ Folders and What They Hold:
 GRAPHS OF SHEAR AND MOMENT FROM MATLAB
 <img width="739" height="879" alt="image" src="https://github.com/user-attachments/assets/900ddc46-be77-4ccf-a7d7-7a2bf89f56c8" />
 
-<img width="729" height="846" alt="image" src="https://github.com/user-attachments/assets/2865cf3a-040f-4da3-9fd8-e30628b12b58" />
+<img width="630" height="829" alt="image" src="https://github.com/user-attachments/assets/7b4505ed-9b90-4d96-8283-324138567847" />
+
 
