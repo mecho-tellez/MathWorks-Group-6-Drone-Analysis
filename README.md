@@ -15,7 +15,7 @@ Results:
 Breakdown of what each student did:
 - Huy Tran: Modeled the 2D model into a 3D model using Solidworks. Conducted research on materials and assisted in selecting the materials for the drone.
 - Victor Espinoza: Created 2D schematic of frame and parts, calculated the total weight and the remaining thrust to carry the payload, estimated the maximum payload, calculated the center of mass to align with the center of moments, calculated shear and moments of drone arms by creating a cut down the center of the arm.
-- Allen Kuo: Added motors and propellers to the assembly. Tried to include Simulink and possible animation, but only got as far as adding a single set of forces and torque to the airframe before getting stuck.
+- Allen Kuo: Added motors, propellers, tie down, and overwrote weight to the assembly. Calculated drone weight without tie down parts. Tried to include Simulink and possible animation, but only got as far as adding a single set of forces and torque to the airframe before getting stuck.
 - Ernesto Tellez Perez: Modeled and calculated the drone arm as a cantilever. Found the general equation for the shear and moment of the drone arm in variable form. Programmed the MATLAB Analysis with plots of shear and moment using relevant dimensions and constants. Researched and found the speed and flight controller for the drone. Calculated the centroid of the drone.
 
 Folders and What They Hold: 
