@@ -24,7 +24,8 @@ Folders and What They Hold:
 
   - The MATLAB code is ready to run through MATLAB and return the plots of shear and moment for the drone arms. If dimensions or constants are to be changed, the variables are easily accessible and editable to match design changes.
   - The 3d model can be opened through media/Final Drone Assembly.html
-    
+
+GRAPHS OF SHEAR AND MOMENT FROM MATLAB
 <img width="739" height="879" alt="image" src="https://github.com/user-attachments/assets/900ddc46-be77-4ccf-a7d7-7a2bf89f56c8" />
 
 <img width="729" height="846" alt="image" src="https://github.com/user-attachments/assets/2865cf3a-040f-4da3-9fd8-e30628b12b58" />
