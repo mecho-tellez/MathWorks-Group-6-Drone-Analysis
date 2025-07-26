@@ -6,6 +6,12 @@ Parameters: Drone must weight less than 2 kg and the motors can provide at most 
 
 Methods: We designed a drone frame by creating a schematic in AutoCAD and a 3D model in SolidWorks. Using the geometry of each part of the frame and the density of the material, we calculated the weight of each part and found the total mass of the drone by combining all of the masses. We were able to then find the net upward force available from the motors by doing summation of forces in the y-direction of a FBD of the drone and used that value to calculate the maximum payload capacity that will still keep the drone in equilibrium. We also validated that the center of mass would align with the center of moments of the arms to ensure an even lift-off. We then analyzed the arms to see if the forces acting on the arms would cause it to break or cause and permanent bending by measuring the shear and moments.
 
+Results:
+- Net force available from motors: 24.074 N
+- Estimated weight of drone: 1.56 kg
+- Maximum payload capacity: ~2.454 kg = ~5.41 lbs
+- Center of mass with payload: 7.664 in from the front
+
 Breakdown of what each student did:
 - Huy Tran: Modeled the 2D model into a 3D model using Solidworks. Conducted research on materials and assisted in selecting the materials for the drone.
 - Victor Espinoza: Created 2D schematic of frame and parts, calculated the total weight and the remaining thrust to carry the payload, estimated the maximum payload, calculated the center of mass to align with the center of moments, calculated shear and moments of drone arms by creating a cut down the center of the arm.
